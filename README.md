@@ -37,10 +37,10 @@ This repository has been visited quite often recently because of doge going to t
 3. Add button everywhere you want !
 
 	```html
-	<div data-xdgbtn-address="DKVtwbh8YWrXtn5qz8DTB9ZamoYXneKn9F"></div>
+	<div data-xdgbtn-address="DE6F5FisSCy7yz5rpHY1ChMSGYnDMpFZ1Q"></div>
 	```
 
-Note: This is my real dogecoin address, so you can donate to **DKVtwbh8YWrXtn5qz8DTB9ZamoYXneKn9F** if you want :)
+Note: This is my real dogecoin address, so you can donate to **DE6F5FisSCy7yz5rpHY1ChMSGYnDMpFZ1Q** if you want :)
 
 # Options
 
@@ -79,5 +79,5 @@ To add a locale, add the corresponding stylesheet
 Then add the `xdgbtn-lang-xx-XX` class to your button
 
 ```html
-<div data-xdgbtn-address="DKVtwbh8YWrXtn5qz8DTB9ZamoYXneKn9F" class="xdgbtn-lang-fr-FR"></div>
+<div data-xdgbtn-address="DE6F5FisSCy7yz5rpHY1ChMSGYnDMpFZ1Q" class="xdgbtn-lang-fr-FR"></div>
 ```
